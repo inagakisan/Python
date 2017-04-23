@@ -1,3 +1,0 @@
-MAILTO=y.inagaki53@gmail.com
-
-*/5 * * * * echo "hello"
